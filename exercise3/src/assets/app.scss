@@ -1,0 +1,16 @@
+  :root {
+      --font: Avenir, Helvetica, Arial, sans-serif;
+      --background-1: #004c6d;
+      --background-2: #547c98;
+      --background-3: #93afc5;
+      --eye-brown: 192deg;
+      --eye-green: 290deg;
+      --eye-blue: -32deg;
+      --item-margin: 10px;
+      --item-padding: 20px;
+      --border-radius: 5px;
+
+      --items-by-row-when-screen-is-less-than-600px: 2;
+      --items-by-row-when-screen-is-more-than-600px: 4;
+      --items-by-row-when-screen-is-more-than-1024px: 7;
+  }
